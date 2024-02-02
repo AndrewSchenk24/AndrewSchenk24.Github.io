@@ -5,6 +5,11 @@
 ### Learn About My Projects
 I am yada yada yada, please explore 
 
+#### [Who's Using DoorDash?](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
+[<img src="images/Who's Using DoorDash v3.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+In this analysis I analyze DoorDash customer data to identify spending trends and most profitable customers. Using this information I devise marketing recommendations for customer base and revenue growth.
+
+---
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
@@ -13,12 +18,6 @@ Tolulope is the best
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
----
-#### [Who's Using DoorDash?](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
