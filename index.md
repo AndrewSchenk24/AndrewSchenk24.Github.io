@@ -1,8 +1,9 @@
-# Welcome to My Portfolio
+# Welcome to My Data Projects Portfolio
 
 ---
 
 ### Learn About My Projects
+I am yada yada yada, please explore 
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
