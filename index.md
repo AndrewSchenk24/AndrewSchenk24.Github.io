@@ -15,7 +15,7 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [Who's Using DoorDash?](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
