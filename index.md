@@ -1,4 +1,4 @@
-# Welcome to My Data Projects Portfolio
+# Welcome to My Data Portfolio
 
 ---
 
