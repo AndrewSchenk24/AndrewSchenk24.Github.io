@@ -6,7 +6,7 @@
 I am yada yada yada, please explore 
 
 #### [Who's Using DoorDash?](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
-[<img src="images/Who's Using DoorDash v3.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Who's Using DoorDash v3.png?raw=true"/>](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
 In this analysis I analyze DoorDash customer data to identify spending trends and most profitable customers. Using this information I devise marketing recommendations for customer base and revenue growth.
 
 ---
