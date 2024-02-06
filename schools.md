@@ -76,8 +76,12 @@ This area chart provides insight into math proficiency across all school distric
 
 ### Recommendations for the Massachusetts Department of Education:
 
-*Class size should not be the focus of efforts to improve state-wide educational performance as class size does not greatly influence college attendance rates.
-*Focus increased resources and analysis on the 36 schools with lower than 50% graduation rates. 
-*Identify teaching best practices in the 11 schools districts that excel in 4th grade math and apply these practices state-wide to improve this key performance indicator and future educational success.
- 
-Thank you for reading this article and I hope you were able to explore the full dashboard on Tableau. As I am continuing to develop my skill in data analysis and data visualization, I would greatly appreciate any suggestions or comments you may have. Follow and connect with me for more data analysis to come!
+<br/>
+
+*__Class size should not be the focus of efforts to improve state-wide educational performance__ as class size does not greatly influence college attendance rates.
+*__Focus increased resources and analysis on the 36 schools__ with lower than 50% graduation rates. 
+*__Identify teaching best practices in the 11 school districts__ that excel in 4th grade math and apply these practices state-wide __to improve this key performance indicator__ and future educational success.
+
+<br/>
+
+Thank you for reading this article and I hope you were able to explore the full dashboard on [**Tableau Public**](https://public.tableau.com/app/profile/andrew.schenk6747/viz/MassachusettsSchoolDistrictProject/MassSchoolsDashboard). 
