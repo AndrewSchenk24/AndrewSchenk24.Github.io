@@ -18,7 +18,7 @@ In this analysis I analyze DoorDash customer data to identify spending trends an
 ### Tableau: Massachusetts Department of Education Dashboard
 
 #### [Improving Schools in Massachusetts](/schools.md)
-<img src="images/Improving Massachusetts Schools .png?raw=true"/>
+[<img src="images/Improving Massachusetts Schools .png?raw=true"/>](/schools.md)
 In this project, Tableau is used to create a dashboard to provide information and to answer key questions posed by the Massachusetts Department of Education to identify opportunities to improve overall performance and student success. 
 
 #### [Internal Blog Post Project](/bank)
