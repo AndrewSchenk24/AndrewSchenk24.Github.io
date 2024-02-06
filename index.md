@@ -6,7 +6,7 @@ As a former physical therapist and Realtor, I have extensive experience providin
 
 ---
 
-### DoorDash Customer Analysis in Excel
+### Excel: DoorDash Customer Analysis
 
 
 #### [Who's Using DoorDash?](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
@@ -15,9 +15,9 @@ In this analysis I analyze DoorDash customer data to identify spending trends an
 
 ---
 
-### Education Performance Dashboard and Analysis in Tableau
+### Tableau: Massachusetts Department of Education Dashboard
 
-#### [Improving Schools in Massachusetts](/bank)
+#### [Improving Schools in Massachusetts](/schools)
 <img src="images/Improving Massachusetts Schools .png?raw=true"/>
 In this project, Tableau is used to create a dashboard to provide information and to answer key questions posed by the Massachusetts Department of Education to identify opportunities to improve overall performance and student success. 
 
