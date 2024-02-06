@@ -8,13 +8,17 @@ In this scenario I have been asked by the Massachusetts Department of Education 
 * __Identify schools with the lowest graduation rates__ that may be in need of assistance or potential increase in resource allocation.
 * Determine **which school districts excel in 4th Grade math proficiency** to help identify teaching best practices.
 
+<br/>
+
 ### The Results:
 
 * Larger class size __DOES NOT__ result in lower college attendance rates.
 * __Thirty-six high schools in Massachusetts have a graduation rate below 50%__ and can be identified as schools in most need of further analysis and assistance from the Department of Education.
 * __Six school districts have achieved 4th grade math levels of proficient or better__ and can be studied to identify teaching best practices that can be applied to improve math scores state-wide.
 
-### Visualizations in Tableau- The Analysis:
+<br/>
+
+### Visualization in Tableau- The Analysis:
 
 **The data used in this analysis** is real data taken from the Massachusetts Department of Education (DOE) website and compiled in a data set that **can be found** [**here**](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data). This dataset contains 302 attributes on 1861 schools in the state of Massachusetts with **each row in the data set representing an individual school**.
 
@@ -22,14 +26,17 @@ This analysis was completed in Tableau to visualize the pertinent data points an
 
 Please explore the full **Massachusetts DOE overview dashboard** created for this project on my [**Tableau Public**](https://public.tableau.com/app/profile/andrew.schenk6747/viz/MassachusettsSchoolDistrictProject/MassSchoolsDashboard).
 
+<br/>
 
 #### Does Class Size Affect College Attendance:
 
 To explore this relationship a scatter plot was created to map each schools’ average class size and what percentage of their students attend college after graduating. Each point on the scatter plot represents an individual school:
 
+<br/>
 
 <img src="images/Class Size Viz.png?raw=true"/>
 
+<br/>
 
 While it would seem logical that smaller class sizes might be beneficial and improve college attendance, the data did not show this. The scatter plot shows that **larger class size does not result in decreased college attendance**. In fact, there is a slight seemingly counterintuitive trend represented in the scatter plot that smaller class size results in decreased college attendance. 
 
@@ -37,28 +44,35 @@ To explore this relationship one step further I decided to incorporate color hue
 
 In general, however, **class size should not be the focus of the Department of Education**. Investing time and further resources to affect class size likely would not greatly improve college attendance rates.
 
+<br/> 
 
 #### Identify Low Performing Schools Based on Graduation Rate:
 
 Low performing schools are identified in the following bar chart:
 
+<br/>
 
 <img src="images/GradRateViz.png?raw=true"/>
 
+<br/>
 
 This bar chart is helpful in identifying **36 high schools whose graduation rates are below 50%**. The Department of Education can use this insight to focus on these schools and their needs. Changes can then be made to improve these schools’ graduation rates perhaps by providing improved resources for their students such as additional tutoring programs for those students in need.
 
+<br/>
 
 #### 4th Grade Math Proficiency:
 
 **Fourth grade math proficiency** was identified by the Secretary of Education as a **key indicator of a student’s future success**. As such I was tasked with identifying the highest performing school districts that, according to scores on a standardized math test, have achieved a 4th grade math level of proficient or better for 80% or more of their students.
 
+<br/>
 
 <img src="images/4th Grade Math Viz.png?raw=true"/>
 
+<br/>
 
 This area chart provides insight into math proficiency across all school districts and also identifies the **11 school districts that excel in 4th grade math**. With this information, the Department of Education can **identify teaching best practices** utilized by these 11 districts that potentially can be introduced to lower performing districts. By doing so the Department of Education can improve 4th grade math scores state-wide in an effort to improve their student’s future educational success.
 
+<br/>
 
 ### Recommendations for the Massachusetts Department of Education:
 
