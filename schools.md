@@ -1,26 +1,26 @@
-## Improving Schools in Massachuetts
+# Improving Schools in Massachuetts
 
 As a child of a middle-school English and history teacher I have a great respect and understanding for the effort and dedication educators commit to their students and the transformative effect a good education can have on students’ lives. That understanding made me especially interested in the prospect of uncovering insights through the analysis of educational data from the Massachusetts Department of Education.
 
-In this scenario I have been asked by the Massachusetts Department of Education to examine their data to providing an overview of the Massachusetts school system to assist policy makers and educators in making data-based decisions that could improve the educational system. It has been specifically requested that information be provided regarding the following tasks:
+In this scenario I have been asked by the Massachusetts Department of Education to __examine their data to providing an overview of the Massachusetts school system__ to assist policy makers and educators in making data-based decisions that could improve the educational system. It has been specifically requested that __information be provided regarding the following tasks__:
 
-* Examine the influence of class size on college attendance rates.
-* Identify schools with the lowest graduation rates that may be in need of assistance or potential increase in resource allocation.
-* Determine which schools districts excel in 4th Grade math proficiency to help identify teaching best practices.
+* Examine the influence of **class size on college attendance rates**.
+* __Identify schools with the lowest graduation rates__ that may be in need of assistance or potential increase in resource allocation.
+* Determine **which school districts excel in 4th Grade math proficiency** to help identify teaching best practices.
 
-The Results:
+### The Results:
 
-* Larger class size DOES NOT result in lower college attendance rates.
-* Thirty-six high schools in Massachusetts have a graduation rate below 50% and can be identified as schools in most need of further analysis and assistance from the Department of Education.
-* Six school districts have achieved 4th grade math levels of proficient or better and can be studied to identify teaching best practices that can be applied to improve math scores state-wide.
+* Larger class size __DOES NOT__ result in lower college attendance rates.
+* __Thirty-six high schools in Massachusetts have a graduation rate below 50%__ and can be identified as schools in most need of further analysis and assistance from the Department of Education.
+* __Six school districts have achieved 4th grade math levels of proficient or better__ and can be studied to identify teaching best practices that can be applied to improve math scores state-wide.
 
-Visualizations in Tableau- The Analysis:
+### Visualizations in Tableau- The Analysis:
 
 The data used in this analysis is real data taken from the Massachusetts Department of Education (DOE) website and compiled in a data set that can be found here. This dataset contains 302 attributes on 1861 schools in the state of Massachusetts with each row in the data set representing an individual school.
 This analysis was completed in Tableau to visualize the pertinent data points and to address the questions posed by the Department of Education. Tableau is a great tool to use for this analysis as the relatively complex information contained in the data set can be easily communicated to the non-technical stakeholders who have requested and are interested in understanding this data.
 Please explore the full Massachusetts DOE overview dashboard created for this project on my Tableau Public.
 
-Does Class Size Affect College Attendance:
+### Does Class Size Affect College Attendance:
 
 To explore this relationship a scatter plot was created to map each schools’ average class size and what percentage of their students attend college after graduating. Each point on the scatter plot represents an individual school:
 
