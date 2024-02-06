@@ -15,6 +15,12 @@ In this analysis I analyze DoorDash customer data to identify spending trends an
 
 ---
 
+### Education Performance Dashboard and Analysis in Tableau
+
+#### [Improving Schools in Massachusetts](/bank)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+In this project, Tableau is used to create a dashboard to provide information and to answer key questions posed by the Massachusetts Department of Education to identify opportunities to improve overall performance and student success. 
+
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
