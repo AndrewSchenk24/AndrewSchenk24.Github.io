@@ -1,7 +1,9 @@
 ## Improving Schools in Massachuetts
 
 As a child of a middle-school English and history teacher I have a great respect and understanding for the effort and dedication educators commit to their students and the transformative effect a good education can have on students’ lives. That understanding made me especially interested in the prospect of uncovering insights through the analysis of educational data from the Massachusetts Department of Education.
+
 In this scenario I have been asked by the Massachusetts Department of Education to examine their data to providing an overview of the Massachusetts school system to assist policy makers and educators in making data-based decisions that could improve the educational system. It has been specifically requested that information be provided regarding the following tasks:
+
 Examine the influence of class size on college attendance rates.
 Identify schools with the lowest graduation rates that may be in need of assistance or potential increase in resource allocation.
 Determine which schools districts excel in 4th Grade math proficiency to help identify teaching best practices. 
