@@ -3,7 +3,7 @@
 ---
 
 ### My Data Story
-As a former physical therapist and Realtor, I have extensive experience developing soft skills and problem-solving abilities. Now, I am eager to pursue my passion for data analysis and apply my skills to transition to a data role. I specialize in data visualization, data cleaning, and data modeling. I am proficient in SQL, Python, and Tableau. I am a great team player and have excellent communication skills. I hope you enjoy exploring my data portfolio and please reach out with any questions!
+As a former physical therapist and Realtor, I have extensive experience providing solutions to customers and stakeholders of all backgrounds. I take pride in my analytical mindset and passion for problem-solving and data-based decision making. Now, I am eager to pursue my passion for data analysis and apply my skills to transition to a data role. I specialize in data visualization, data cleaning, and data modeling. I am proficient in Excel, SQL, and Tableau. I am a great team player and have excellent communication skills. I hope you enjoy exploring my data portfolio and please reach out with any questions!
 
 #### [Who's Using DoorDash?](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
 [<img src="images/Who’s Using DoorDash v3.png?raw=true"/>](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
