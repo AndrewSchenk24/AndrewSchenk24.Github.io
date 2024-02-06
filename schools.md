@@ -20,11 +20,11 @@ In this scenario I have been asked by the Massachusetts Department of Education 
 
 ### Visualization in Tableau- The Analysis:
 
-**The data used in this analysis** is real data taken from the Massachusetts Department of Education (DOE) website and compiled in a data set that **can be found** [**here**](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data). This dataset contains 302 attributes on 1861 schools in the state of Massachusetts with **each row in the data set representing an individual school**.
+**The data used in this analysis** is real data taken from the Massachusetts Department of Education (DOE) website and compiled in a data set that **can be found** [here](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data). This dataset contains 302 attributes on 1861 schools in the state of Massachusetts with **each row in the data set representing an individual school**.
 
 This analysis was completed in Tableau to visualize the pertinent data points and to address the questions posed by the Department of Education. Tableau is a great tool to use for this analysis as the relatively complex information contained in the data set can be easily communicated to the non-technical stakeholders who have requested and are interested in understanding this data. 
 
-Please explore the full **Massachusetts DOE overview dashboard** created for this project on my [**Tableau Public**](https://public.tableau.com/app/profile/andrew.schenk6747/viz/MassachusettsSchoolDistrictProject/MassSchoolsDashboard).
+Please explore the full **Massachusetts DOE overview dashboard** created for this project on my [Tableau Public](https://public.tableau.com/app/profile/andrew.schenk6747/viz/MassachusettsSchoolDistrictProject/MassSchoolsDashboard).
 
 <br/>
 
@@ -84,4 +84,4 @@ This area chart provides insight into math proficiency across all school distric
 
 <br/>
 
-Thank you for reading this article and I hope you were able to explore the full dashboard on [**Tableau Public**](https://public.tableau.com/app/profile/andrew.schenk6747/viz/MassachusettsSchoolDistrictProject/MassSchoolsDashboard). 
+Thank you for reading this article and I hope you were able to explore the full dashboard on [Tableau Public](https://public.tableau.com/app/profile/andrew.schenk6747/viz/MassachusettsSchoolDistrictProject/MassSchoolsDashboard). 
