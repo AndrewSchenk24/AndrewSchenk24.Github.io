@@ -40,13 +40,12 @@ What are the top math schools in the state?
 
 ---
 
-### Category Name 2
+### Portfolio Projects
 
 - [Excel Analysis: Who's Using Doordash?](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
 - [Tableau Dashboard: Improving Schools in Massachusetts](/schools.md)
 - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
