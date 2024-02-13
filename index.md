@@ -2,7 +2,7 @@
 
 
 ### My Data Story
-As a former physical therapist and Realtor, I have extensive experience providing solutions to customers and stakeholders of all backgrounds. I take pride in my analytical mindset and passion for problem-solving and data-based decision making. Now, I am eager to pursue my passion for data analysis and apply my skills to transition to a data role. I specialize in data visualization, data cleaning, and data modeling. I am proficient in Excel, SQL, and Tableau. I am a great team player and have excellent communication skills. I hope you enjoy exploring my data portfolio and please reach out with any questions!
+As a physical therapist and Realtor, I have extensive experience providing solutions to customers and stakeholders of all backgrounds. I take pride in my analytical mindset and passion for problem-solving and data-based decision making. I am eager to pursue my passion for data analysis and apply my skills to transition to a data role. I specialize in data visualization, data cleaning, and data modeling. I am proficient in Excel, SQL, and Tableau. I am a great team player and have excellent communication skills. I hope you enjoy exploring my data portfolio and please reach out with any questions!
 
 ---
 
