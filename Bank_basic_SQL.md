@@ -22,5 +22,8 @@ I have been tasked by the World Bank to analyze their most recent data to give a
 - The top 10 countries with the greatest amount due to the World Bank account for 123 billion or 62% of all money due.
 - The term "Growth" appears in the project name of 3 of the projects most highly financed by the World Bank
 
+### The Analysis
+
+This project was completed in SQL by using basic commands including aggregate functions and GROUP by statements, aliases, filtering with WHERE statements, and sorting with ORDER BY statements. LIMIT staements were also used to select specific outcomes.
 
 The Data for this project was collected directly from the World bank from the most recent snapshot of the International Bank for Reconstruction and Development (IBRD) statement of loans. This most recent snapshot reflects the standing of all current IBRD loans as of January 16, 2024. This dataset can be found on the World Bank’s website if you’re interested in taking a look. 
