@@ -1,4 +1,4 @@
-# Current World Bank Lending
+# World Bank Lending Analysis
 
 Since 1947, the World Bank has funded over 12,000 development projects, via low interest loans, grants, and other forms of financial assistance. Many of these projects involve developing infrastructure, education, and social programs in developing countries. The World Bank serves as a vital resource for many countries for both financial and technical support for long term development and in response to critical events such as recovery from natural disasters. Through its focus on economic development and reduction of poverty, the World Bank has affected the lives of millions of people in its member countries. 
 
