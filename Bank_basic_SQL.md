@@ -24,7 +24,7 @@ I have been tasked by the World Bank to **analyze their most recent data to give
 
 ### The Analysis
 
-This project was completed in SQL by using basic commands including **aggregate functions** and **GROUP BY** statements, **aliases**, filtering with **WHERE** statements, and sorting with **ORDER BY** statements. **LIMIT** staements were also used to select specific outcomes.
+This project was completed in SQL by using basic commands including **aggregate functions** and **GROUP BY** statements, **aliases**, filtering with **WHERE** statements, and sorting with **ORDER BY** statements. **LIMIT** statements were also used to select specific outcomes.
 
 The Data for this project was collected directly from the World Bank website is the **most recent snapshot** reflecting the current status of loans as of January 16, 2024. The data set contains over ten-thousand rows of data, each row representing an individual loan, with 30 characteristics or columns for each loan.  The dataset can be found [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-of-Credits-and-Grants-Latest-Availab/ebmi-69yj/about_data) if you’re interested in taking a look. 
 
