@@ -45,6 +45,15 @@ So our initial query gives some summary information. As of January 16, 2024 the 
 <br/><br/>
 
 An interesting insight from this breakdown of projects and loans by country is that any singular project may be funded by multiple loans. This query also informs the World bank on the current status of most supported countries based on sheer number of projects with India, Bangladesh and Pakistan leading the way.
+<br/><br/>
+
+From here the next task is to look at some basic financial characteristics of outstanding loans due to the World Bank and to calculate the average interest rate being charged to member countries for that financing. 
+<br/><br/>
+
+<img src="images/SQL Project Query 3.png?raw=true"/>
+<img src="images/SQL Project Result 3.png?raw=true"/>
+
+
 
 
 
