@@ -28,4 +28,13 @@ This project was completed in SQL by using basic commands including aggregate fu
 
 The Data for this project was collected directly from the World Bank website is the most recent snapshot reflecting the current status of loans as of January 16, 2024. The data set contains over ten-thousand rows of data, each row representing an individual loan, with 30 characteristics or columns for each loan.  The dataset can be found [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-of-Credits-and-Grants-Latest-Availab/ebmi-69yj/about_data) if you’re interested in taking a look. 
 
+The World Bank data was downloaded as a .CSV and uploaded and named "bank_data" for the project
+
+To determine the number of countries with outstanding loans we can use SQL to COUNT the different countries that have loans listed in the data set. Since "Project ID" is used to identify a specific project this column can be used to identify the number of projects currently supported by the World Bank. 
+<br/><br/>
+<img src="images/SQL Project Query 1.png?raw=true"/>
+<br/><br/>
+This query calculated and pulled the following results:
+<br/><br/>
+<img src="images/SQL Project Result 1.png?raw=true"/>
 
