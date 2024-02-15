@@ -62,7 +62,7 @@ The top three countries that we learned have the greatest number of projects fun
 
 The focus now shifts to the last task of identifying the individual projects that have the most outstanding debt. 
 
-<img src="images/SQL Project Query 6.png?raw=true"/>
+<img src="images/SQL Project Query 6a.png?raw=true"/>
 <img src="images/SQL Project Result 6.png?raw=true"/>
 
 
