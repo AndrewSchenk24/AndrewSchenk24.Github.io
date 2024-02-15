@@ -19,7 +19,7 @@ I have been tasked by the World Bank to analyze their most recent data to give a
 - India, Bangladesh, and Pakistan lead the way in total number of projects supported by the World Bank
 - Current total due to the World Bank is over 198 billion dollars
 - For loans that are currently in repayment, the average service charge is just 0.95%
-- The top 10 countries with the greatest amount due to the World Bank account for 123 billion or 62% of all money due.
+- The top 10 countries with the greatest amount due to the World Bank account for 126 billion or 64% of all money due.
 - The term "Growth" appears in the project name of 3 of the projects most highly financed by the World Bank
 
 ### The Analysis
@@ -53,9 +53,14 @@ From here the next task is to look at some basic financial characteristics of ou
 
 We find that the World Bank has over 198 billion currently invested in its member countries and has provided financing with, on avergae, an interest rate below one percent. These numbers speak to the willingness of the World Bank to fulfil its mission to provide low interest financing to help its member countries.
 
+Now that we have an idea of total amount due across all member countries, the next query is designed to identify the 10 countries that have the most oustanding debt by examing total amount due to the World Bank by country.
 
 <img src="images/SQL Project Query 5.png?raw=true"/>
 <img src="images/SQL Project Result 5b.png?raw=true"/>
+
+The top three countries that we learned have the greatest number of projects funded by the World Bank, Bangladesh, India, and Pakistan, predictably also owe the greatest amounts to the World Bank. With a total of 126 billion owed, these 10 member countries account for 64% of all amounts due to the World Bank and as such receive the greatest amount of aid from the World Bank.
+
+
 <img src="images/SQL Project Query 6.png?raw=true"/>
 <img src="images/SQL Project Result 6.png?raw=true"/>
 
