@@ -63,7 +63,7 @@ The top three countries that we learned have the greatest number of projects fun
 The focus now shifts to the last task of identifying the individual projects that have the most outstanding debt. Since each project may have multiple loans it is necessary to adds all amounts due for a individual loan to get the total amount owed for the project. By using a SUM aggregate function and GROUPing by "Project Name" this calculation can be made.  
 
 <img src="images/SQL Project Query 6a.png?raw=true"/>
-<img src="images/SQL Project Result 6.png?raw=true"/>
+<img src="images/SQL Project Result 6a.png?raw=true"/>
 
 
 
