@@ -51,12 +51,12 @@ From here the next task is to look at some basic financial characteristics of ou
 
 <img src="images/SQL Project Query 3.png?raw=true"/>
 <img src="images/SQL Project Result 3a.png?raw=true"/>
-<br/><br/>
-We find that the World Bank has over 198 billion currently invested in its member countries and has provided financing with, on avergae, an interest rate below one percent. These numbers speak to the willingness of the World Bank to fulfil its mission to provide low interest financing to help its member countries. 
-
-
 <img src="images/SQL Project Query 4.png?raw=true"/>
 <img src="images/SQL Project Result 4a.png?raw=true"/>
+<br/><br/>
+We find that the World Bank has over 198 billion currently invested in its member countries and has provided financing with, on avergae, an interest rate below one percent. These numbers speak to the willingness of the World Bank to fulfil its mission to provide low interest financing to help its member countries.
+
+
 <img src="images/SQL Project Query 5.png?raw=true"/>
 <img src="images/SQL Project Result 5b.png?raw=true"/>
 <img src="images/SQL Project Query 6.png?raw=true"/>
