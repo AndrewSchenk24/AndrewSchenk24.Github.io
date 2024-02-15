@@ -51,7 +51,7 @@ From here the next task is to look at some basic financial characteristics of ou
 <br/><br/>
 
 <img src="images/SQL Project Query 3.png?raw=true"/>
-<img src="images/SQL Project Result 3.png?raw=true"/>
+<img src="images/SQL Project Result 3a.png?raw=true"/>
 <img src="images/SQL Project Query 4.png?raw=true"/>
 <img src="images/SQL Project Result 4.png?raw=true"/>
 <img src="images/SQL Project Query 5.png?raw=true"/>
