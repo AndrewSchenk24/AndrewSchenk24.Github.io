@@ -38,12 +38,9 @@ To determine the number of countries with outstanding loans we can use SQL to CO
 <br/><br/>
 So our initial query gives some summary information. As of January 16, 2024 the World bank is supporting 7450 different projects in 127 of its member countries. To breakdown this information further we can use a GROUP BY clause to see how many projects and loans are attributed to each country. By using an ORDER BY clause to sort the returned data the countries with the highest number of loans and highest number of projects can be identified.
 <br/><br/>
-
 <img src="images/SQL Project Query 2.png?raw=true"/>
-<br/><br/>
 <img src="images/SQL Project Result 2.png?raw=true"/>
 <br/><br/>
-
 An interesting insight from this breakdown of projects and loans by country is that any singular project may be funded by multiple loans. This query also informs the World bank on the current status of most supported countries based on sheer number of projects with India, Bangladesh and Pakistan leading the way.\
 
 From here the next task is to look at some basic financial characteristics of outstanding loans due to the World Bank and to calculate the average interest rate being charged to member countries for that financing. Calculating total amount owed to the World Bank can be found by adding the amout due from each loan. When calculating the average interest rate for outstanding loans a WHERE clause is used to filter only those loans that are still currently in reayment. By using this filter we are sure to calculate the average interest rates just on loans in repayment and exclude loan interest rates from loans that have been fully repaid or forgiven from affecting the calculation.
@@ -53,7 +50,7 @@ From here the next task is to look at some basic financial characteristics of ou
 <img src="images/SQL Project Result 3a.png?raw=true"/>
 <img src="images/SQL Project Query 4.png?raw=true"/>
 <img src="images/SQL Project Result 4a.png?raw=true"/>
-<br/><br/>
+
 We find that the World Bank has over 198 billion currently invested in its member countries and has provided financing with, on avergae, an interest rate below one percent. These numbers speak to the willingness of the World Bank to fulfil its mission to provide low interest financing to help its member countries.
 
 
