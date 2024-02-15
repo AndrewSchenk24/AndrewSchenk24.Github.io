@@ -64,6 +64,8 @@ The focus now shifts to the last task of identifying the individual projects tha
 <img src="images/SQL Project Query 6a.png?raw=true"/>
 <img src="images/SQL Project Result 6a.png?raw=true"/>
 
+The results of this query speak to the wide array of projects, services, and support that the World Bank provides to its member countries. Some of the largest investments in individual projects are related to creating economic stability, infrastructure improvement, peace efforts, educational improvement, and providing support for the poor. Growth is a common theme in many of the most highly funded projects and is indicative that the World Bank is continuing to focus on its mission to aid developing countries to improve quality of life and economic development.
+
 
 
 
