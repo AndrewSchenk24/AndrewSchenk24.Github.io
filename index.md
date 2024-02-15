@@ -23,7 +23,9 @@ In this project, Tableau is used to create a dashboard to provide information an
 
 ---
 
-#### [Internal Blog Post Project](/bank)
+### SQL: World Bank Lending Analysis
+
+#### [Internal Blog Post Project](/Bank_basic_SQL.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
