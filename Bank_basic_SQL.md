@@ -60,6 +60,7 @@ Now that we have an idea of total amount due across all member countries, the ne
 
 The top three countries that we learned have the greatest number of projects funded by the World Bank, Bangladesh, India, and Pakistan, predictably also owe the greatest amounts to the World Bank. With a total of 126 billion owed, these 10 member countries account for 64% of all amounts due to the World Bank and as such receive the greatest amount of aid from the World Bank.
 
+The focus now shifts to the last task of identifying the individual projects that have the most outstanding debt. 
 
 <img src="images/SQL Project Query 6.png?raw=true"/>
 <img src="images/SQL Project Result 6.png?raw=true"/>
