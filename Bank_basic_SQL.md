@@ -35,6 +35,7 @@ To determine the number of countries with outstanding loans we can use SQL to CO
 <img src="images/SQL Project Query 1.png?raw=true"/>
 <br/><br/>
 This query calculated and pulled the following results:
+<img src="images/SQL Project Result 1.png?raw=true"/>
 <br/><br/>
 To further understand which countries are receiving the greates number of loans this 
 <img src="images/SQL Project Query 2.png?raw=true"/>
