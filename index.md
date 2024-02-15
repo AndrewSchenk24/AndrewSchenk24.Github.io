@@ -27,7 +27,7 @@ In this project, Tableau is used to create a dashboard to provide information an
 
 #### [World Bank Lending Analysis](/Bank_basic_SQL.md)
 <img src="images/World Bank Project Photo.jpg?raw=true"/>
-In this analysis SQL is used to create basic queries to explore a snapshot of the World Bank's current financing of over 7000 project in 123 different member countries. 
+In this analysis SQL is used to create basic queries to explore a snapshot of the World Bank's current financing of over 7000 project in 123 different member countries. This analysis reveals important insights into the World Bank's current financial support of member countries as it strives toward its mission to "end extreme poverty and boost prosperity on a livable planet."
 
 ---
 
@@ -35,7 +35,7 @@ In this analysis SQL is used to create basic queries to explore a snapshot of th
 
 - [Excel Analysis: Who's Using Doordash?](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
 - [Tableau Dashboard: Improving Schools in Massachusetts](/schools.md)
-- [Project 3 Title](http://example.com/)
+- [SQL: World Bank Lending Analysis](/Bank_basic_SQL.md)
 
 ---
 
