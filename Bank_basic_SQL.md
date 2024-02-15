@@ -34,13 +34,17 @@ To determine the number of countries with outstanding loans we can use SQL to CO
 <br/><br/>
 <img src="images/SQL Project Query 1.png?raw=true"/>
 <br/><br/>
-This query calculated and pulled the following results:
 <img src="images/SQL Project Result 1.png?raw=true"/>
 <br/><br/>
-To further understand which countries are receiving the greates number of loans this 
+So our initial query gives some summary information. As of January 16, 2024 the World bank is supporting 7450 different projects in 127 of its member countries. To breakdown this information further we can use a GROUP BY clause to see how many projects and loans are attributed to each country. By using an ORDER BY clause to sort the returned data the countries with the highest number of loans and highest number of projects can be identified.
+<br/><br/>
+
 <img src="images/SQL Project Query 2.png?raw=true"/>
 <br/><br/>
 <img src="images/SQL Project Result 2.png?raw=true"/>
+<br/><br/>
+
+An interesting insight from this breakdown of projects and loans by country is that any singular project may be funded by multiple loans. This query also informs the World bank on the current status of most supported countries based on sheer number of projects with India, Bangladesh and Pakistan leading the way.
 
 
 
