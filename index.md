@@ -26,7 +26,7 @@ In this project, Tableau is used to create a dashboard to provide information an
 ### SQL: World Bank Lending Analysis
 
 #### [World Bank Lending Analysis](/Bank_basic_SQL.md)
-<img src="images/World Bank Project Photo.jpg?raw=true"/>(Bank_basic_SQL.md)
+[<img src="images/World Bank Project Photo.jpg?raw=true"/>](Bank_basic_SQL.md)
 In this analysis SQL is used to create basic queries to explore a snapshot of the World Bank's current financing of over 7000 project in 123 different member countries. This analysis reveals important insights into the World Bank's current financial support of member countries as it strives toward its mission to "end extreme poverty and boost prosperity on a livable planet."
 
 ---
