@@ -18,7 +18,7 @@ In this analysis I analyze DoorDash customer data to identify spending trends an
 ### Tableau: Massachusetts Department of Education Dashboard
 
 #### [Improving Schools in Massachusetts](/MassachusettsSchoolsTableau.md)
-[<img src="images/Improving Massachusetts Schools .png?raw=true"/>](/schools.md)
+[<img src="images/Improving Massachusetts Schools .png?raw=true"/>](/MassachusettsSchoolsTableau.md)
 In this project, Tableau is used to create a dashboard to provide information and to answer key questions posed by the Massachusetts Department of Education to identify opportunities to improve overall performance and student success. 
 
 ---
@@ -26,7 +26,7 @@ In this project, Tableau is used to create a dashboard to provide information an
 ### SQL: World Bank Lending Analysis
 
 #### [World Bank Lending Analysis](/WorldBankSQL.md)
-[<img src="images/World Bank Project Photo.jpg?raw=true"/>](Bank_basic_SQL.md)
+[<img src="images/World Bank Project Photo.jpg?raw=true"/>](WorldBankSQL.md)
 In this analysis SQL is used to create basic queries to explore a snapshot of the World Bank's current financing of over 7000 project in 123 different member countries. This analysis reveals important insights into the World Bank's current financial support of member countries as it strives toward its mission to "end extreme poverty and boost prosperity on a livable planet."
 
 ---
