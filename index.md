@@ -6,12 +6,20 @@ As a physical therapist and Realtor, I have extensive experience providing solut
 
 ---
 
+### SQL: Healthcare Analytics
+
+#### [Better Healthcare Through Data](/HealthcareAnalyticsSQL.md)
+[<img src="images/Healthcare Analytics.png?raw=true"/>](/HealthcareAnalysticsSQL.md)
+Using intermediate to advanced SQL to analyze hospital admission and patient demographic data uncovering important and actionable KPI's. Skills highlighted in this analysis include JOINS, CTE's, CASE statements, and CONCATENATE.
+
+---
+
 ### Excel: DoorDash Customer Analysis
 
 
 #### [Who's Using DoorDash?](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
 [<img src="images/Who’s Using DoorDash v3.png?raw=true"/>](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
-In this analysis I analyze DoorDash customer data to identify spending trends and most profitable customers. Using this information I devise marketing recommendations for customer base and revenue growth.
+In this analysis I explore DoorDash customer data in Excel to identify spending trends and most profitable customers. Using this information I devise marketing recommendations for customer base and revenue growth.
 
 ---
 
@@ -19,7 +27,7 @@ In this analysis I analyze DoorDash customer data to identify spending trends an
 
 #### [Improving Schools in Massachusetts](/MassachusettsSchoolsTableau.md)
 [<img src="images/Improving Massachusetts Schools .png?raw=true"/>](/MassachusettsSchoolsTableau.md)
-In this project, Tableau is used to create a dashboard to provide information and to answer key questions posed by the Massachusetts Department of Education to identify opportunities to improve overall performance and student success. 
+Tableau is used to create a dashboard for the Massachusetts Board of Education to provide information and to identify opportunities to improve overall performance and student success in the Massachusetts school system. 
 
 ---
 
@@ -33,6 +41,7 @@ In this analysis SQL is used to create basic queries to explore a snapshot of th
 
 ### Portfolio Projects
 
+- [SQL: Healthcare Analytics: Better Healthcare Through Data](HealthcareAnalyticsSQL.md)
 - [Excel Analysis: Who's Using Doordash?](https://www.linkedin.com/pulse/whos-using-doordash-andrew-schenk-pt-mba-ai95e%3FtrackingId=0OySqQ5fR62y1PpAQx5wmA%253D%253D/?trackingId=0OySqQ5fR62y1PpAQx5wmA%3D%3D)
 - [Tableau Dashboard: Improving Schools in Massachusetts](/schools.md)
 - [SQL: World Bank Lending Analysis](/Bank_basic_SQL.md)
