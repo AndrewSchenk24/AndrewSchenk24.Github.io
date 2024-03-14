@@ -1,19 +1,27 @@
-#Better Healthcare Through Data
+# Better Healthcare Through Data
 
-In my time as a physical therapist, I’ve worked in the hospital setting and have first-hand experience working in the delicate balance of providing high quality patient care while considering appropriate health care utilization and its related costs. In this project I’m excited to demonstrate my shift from a front-line clinician trying to find health care efficiencies one patient at a time to working as a healthcare data analyst finding more impactful ways to improve patient outcomes.
-In this analysis I’ve used SQL to explore demographic and hospital admission data for more than 2000 diabetic patients. The data used for this analysis was collected from 130 hospitals over a 10-year period and includes a multitude of data including hospital admission type, length of stay, treatments administered, and patient readmission outcomes. The data used in this analysis can be found here. 
-This analysis focuses primarily on the amount of time a patient stays in the hospital or length of stay, and the amount of care the patient receives during that hospital stay. Hospital length of stay and cost of care provided during a hospital admission are extremely important KPI’s in the hospital setting. Care utilization is directly tied to quality standards that affect hospital reimbursement rates. It's often the case that hospitals are reimbursed a flat rate based on a patient’s diagnoses and severity level. It’s in the interest of the hospital to meet patient care goals without unnecessary procedures or cost and to do so in as short of a time period as possible without sacrificing quality of care.
-In this scenario I have been asked to complete the following tasks by a cross functional committee investigating utilization and hospital length of stay for patients with diabetes related diagnoses:
-Create a basic length of stay distribution visualization and determine the average length of stay to ensure that most patients are staying fewer than 7 days in hospital.
-Categorize utilization based on procedure count to see how number of procedures performed influences patient length of stay.
-Determine if subconscious racial bias exists based on average number of procedures performed.
-Identify the medical specialties that have higher care utilization rates per admission.
-Pull records of all patients admitted through ED that spent below average time in hospital.
-Provide a summary report of patients with high utilization based on number of medications administered and number of lab procedures performed.
+In my time as a physical therapist, I’ve worked in the hospital setting and have first-hand experience working in the delicate balance of providing **high quality patient care while considering appropriate health care utilization and its related costs**. In this project I’m excited to demonstrate my shift from a front-line clinician trying to find health care efficiencies one patient at a time to working as a healthcare data analyst finding **more impactful ways to improve patient outcomes**.
+
+### The Scenario:
+
+In this analysis I’ve used **SQL to explore demographic and hospital admission data** for more than 2000 diabetic patients. The data used for this analysis was collected from 130 hospitals over a 10-year period and includes a multitude of data including hospital admission type, length of stay, treatments administered, and patient readmission outcomes. The data used in this analysis can be found here. 
+<br/><br/>
+This **analysis focuses primarily on the amount of time a patient stays in the hospital or length of stay, and the amount of care the patient receives during that hospital stay**. Hospital length of stay and cost of care provided during a hospital admission are **extremely important KPI’s in the hospital setting**. Care utilization is directly tied to quality standards that affect hospital reimbursement rates. It's often the case that hospitals are reimbursed a flat rate based on a patient’s diagnoses and severity level. It’s in the **interest of the hospital to meet patient care goals without unnecessary procedures or cost and to do so in as short of a time period as possible** without sacrificing quality of care.
+
+In this scenario **I have been asked to complete the following tasks** by a cross functional committee investigating utilization and hospital length of stay for patients with diabetes related diagnoses:
+
+* Create a basic **length of stay distribution visualization** and determine the **average length of stay** to ensure that most patients are staying fewer than 7 days in hospital.
+* Categorize utilization based on procedure count to see how **number of procedures performed influences patient length of stay**.
+* Determine **if subconscious racial bias exists** based on average number of procedures performed.
+* Identify the **medical specialties that have higher care utilization rates** per admission.
+* Pull records of all **patients admitted through ED that spent below average time** in hospital.
+* Provide a **summary report of patients with high utilization** based on number of medications administered and number of lab procedures performed.
  
-The Analysis:
-Length of stay distribution and calculating average length of stay:
-While SQL is a less than ideal platform to create data visualizations in this case a basic histogram can be created to look at hospital length.
+### The Analysis:
+
+**Length of stay distribution and calculating average length of stay:**
+
+While SQL is a less than ideal platform to create data visualizations in this case a basic **histogram** can be created to look at the distribution of hospital length of stay.
 
 
 This histogram counts the number of patients for each length of stay to show length of stay distribution. It is confirmed for the committee that length of stay for most patients is less than 7 days.
