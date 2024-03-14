@@ -9,7 +9,7 @@ As a physical therapist and Realtor, I have extensive experience providing solut
 ### SQL: Healthcare Analytics
 
 #### [Better Healthcare Through Data](/HealthcareAnalyticsSQL.md)
-[<img src="images/Healthcare Analytics.png?raw=true"/>](/HealthcareAnalysticsSQL.md)
+[<img src="images/Healthcare Analytics.png?raw=true"/>](/HealthcareAnalyticsSQL.md)
 Using intermediate to advanced SQL to analyze hospital admission and patient demographic data uncovering important and actionable KPI's. Skills highlighted in this analysis include JOINS, CTE's, CASE statements, and CONCATENATE.
 
 ---
