@@ -2,7 +2,7 @@
 
 As a child of a middle-school English and history teacher I have a great respect and understanding for the effort and dedication educators commit to their students and the transformative effect a good education can have on students’ lives. That understanding made me especially interested in the prospect of uncovering insights through the analysis of educational data from the Massachusetts Department of Education.
 
-In this scenario I have been asked by the Massachusetts Department of Education to __examine their data to providing an overview of the Massachusetts school system__ to assist policy makers and educators in making data-based decisions that could improve the educational system. It has been specifically requested that __information be provided regarding the following tasks__:
+In this scenario I have been asked by the Massachusetts Department of Education to __examine their data to provide an overview of the Massachusetts school system__ to assist policy makers and educators in making data-based decisions that could improve the educational system. It has been specifically requested that __information be provided regarding the following tasks__:
 
 * Examine the influence of **class size on college attendance rates**.
 * __Identify schools with the lowest graduation rates__ that may be in need of assistance or potential increase in resource allocation.
@@ -78,9 +78,9 @@ This area chart provides insight into math proficiency across all school distric
 
 <br/>
 
-*__Class size should not be the focus of efforts to improve state-wide educational performance__ as class size does not greatly influence college attendance rates.
-*__Focus increased resources and analysis on the 36 schools__ with lower than 50% graduation rates. 
-*__Identify teaching best practices in the 11 school districts__ that excel in 4th grade math and apply these practices state-wide __to improve this key performance indicator__ and future educational success.
+* __Class size should not be the focus of efforts to improve state-wide educational performance__ as class size does not greatly influence college attendance rates.
+* __Focus increased resources and analysis on the 36 schools__ with lower than 50% graduation rates. 
+* __Identify teaching best practices in the 11 school districts__ that excel in 4th grade math and apply these practices state-wide __to improve this key performance indicator__ and future educational success.
 
 <br/>
 
